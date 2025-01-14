@@ -21,23 +21,19 @@
 ---
 
 ## Certifications
-- **AI-Powered Data Science** - Digital Skola  
+- **AI-Powered Data Science** - Digital Skola
+- **Data Vizualization** - MySkill    
 
 ---
 
 ## Work Experience
 
-1. **Research Assistant | Universitas Brawijaya**  
+1. **Research Assistant | Universitas Brawijaya** 
    - Worked on computational physics simulations and machine learning applications.  
    - Created interactive GUIs for data analysis tools.  
    - Conducted workshops on SQL and basic statistics.  
 
-2. **Project-Based Experiences**  
-   - **Conqueror Project**: Classification, clustering, and artificial neural networks.  
-   - **Mobile Price Data Wrangling**: Cleaned and analyzed mobile price datasets.  
-   - **Car Price Analysis**: Built predictive models for car prices.  
-
-3. **Startup Founder | computational.socieaty**  
+2. **Startup Founder | computational.socieaty**  
    - Established a community to discuss and share knowledge about computational tools and data science.
 
 ---
