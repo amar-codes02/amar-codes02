@@ -1,25 +1,56 @@
-<h1 align="center">Hi 👋, I'm Muhammad Amarus Salam</h1>
-<h3 align="center">Fresh Graduate in Computational Physics | Data Scientist Enthusiast | Machine Learning Enthusiast | GUI Developer | Research Assistant</h3>
+# Hi there, I'm Amar - My Portfolio 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-codes02&label=Profile%20views&color=0e75b6&style=flat" alt="amar-codes02" /> </p>
+## About Me
+- 💼 **Data Scientist Enthusiast | Machine Learning Enthusiast | GUI Developer**
+- 🤝 Open to collaborations in **Data Wrangling, Machine Learning, and Software Development**
+- 💬 Ask me about **Python, SQL, Regression Analysis, Data Visualization, and Deployment**
+- 📧 Reach me at: salamamar02@gmail.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-codes02" alt="amar-codes02" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Education
+1. **Universitas Brawijaya (UB)**  
+   - Bachelor of Computational Physics  
+   - Relevant Courses: Machine Learning, Data Science, Database Management Systems, Regression Analysis, Big Data, Software Development.  
+   - Notable Projects:
+     - **House Price Prediction**: Created a regression model and deployed it using Streamlit.  
+     - **Sentiment Analysis**: Developed a program to analyze sentiment in customer reviews using the Naive Bayes Classifier.  
 
-- 🔭 I’m currently working on braincore.id **Physics Scientist**
+2. **Man 2 Mataram**  
+   
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad amarus salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad amarus salam" height="30" width="40" /></a>
-<a href="https://instagram.com/@amardeppp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@amardeppp" height="30" width="40" /></a>
-</p>
+## Certifications
+- **AI-Powered Data Science** - Digital Skola  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amar-codes02&show_icons=true&locale=en&layout=compact" alt="amar-codes02" /></p>
+## Work Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amar-codes02&show_icons=true&locale=en" alt="amar-codes02" /></p>
+1. **Research Assistant | Universitas Brawijaya**  
+   - Worked on computational physics simulations and machine learning applications.  
+   - Created interactive GUIs for data analysis tools.  
+   - Conducted workshops on SQL and basic statistics.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar-codes02&" alt="amar-codes02" /></p>
+2. **Project-Based Experiences**  
+   - **Conqueror Project**: Classification, clustering, and artificial neural networks.  
+   - **Mobile Price Data Wrangling**: Cleaned and analyzed mobile price datasets.  
+   - **Car Price Analysis**: Built predictive models for car prices.  
+
+3. **Startup Founder | computational.socieaty**  
+   - Established a community to discuss and share knowledge about computational tools and data science.
+
+---
+
+## Technical Skills
+- **Programming Languages**: Python, SQL  
+- **Tools & Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Streamlit  
+- **Database Management**: SQLite, PostgreSQL  
+- **Machine Learning**: Scikit-learn, ANN  
+- **Other Skills**: GUI Development, ETL Process, Regression Analysis  
+
+---
+
+## Let's Connect!
+- **LinkedIn**: [Muhammad Amarus Salam](https://linkedin.com/in/muhammad-amarus-salam)  
+- **Instagram**: [@amardeppp](https://instagram.com/amardeppp)  
