@@ -48,5 +48,5 @@
 ---
 
 ## Let's Connect!
-- **LinkedIn**: [Muhammad Amarus Salam](https://linkedin.com/in/muhammad-amarus-salam)  
+- **LinkedIn**: [Muhammad Amarus Salam](https://www.linkedin.com/in/muhammad-amarus-salam-2b1720325/) 
 - **Instagram**: [@amardeppp](https://instagram.com/amardeppp)  
