@@ -2,7 +2,7 @@
 
 ## About Me
 - 💼 **Data Scientist Enthusiast | Machine Learning Enthusiast | GUI Developer**
-- 🤝 Open to collaborations in **Data Wrangling, Machine Learning, and Software Development**
+- 🤝 Open to collaborations in **Data Wrangling, Machine Learning, and GUI Development**
 - 💬 Ask me about **Python, SQL, Regression Analysis, Data Visualization, and Deployment**
 - 📧 Reach me at: salamamar02@gmail.com
 
